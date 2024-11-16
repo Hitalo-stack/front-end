@@ -1,0 +1,68 @@
+body{
+    margin: 0px;
+}
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 8px;
+    font-family: Blippo, fantasy;
+}
+header img{
+    width: 200px;
+}
+header div{
+    text-align: end;
+    width: 500px;
+    margin-left: 62%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+main{
+    background-color: black;
+}
+section{
+    background-color: black;
+    border-top: 1px rgb(11, 94, 215) solid;
+    color: white;
+}
+#contatos{
+    text-align: center;
+    background-color: rgb(11, 94, 215);
+    padding: 5px;
+    color: #ffffff;
+}
+#contatos img{
+    width: 15px;
+    height: 15px;
+}
+#contatos h3{
+    font-family: Blippo, fantasy;
+    text-shadow: 2px 2px black;
+}
+h1{
+    padding: 18px;
+    font-family: Blippo, fantasy;
+    text-align: center;
+}
+#patoganso{
+    background-image: url(https://www.alura.com.br/artigos/assets/o-que-e-html-suas-tags-parte-1-estrutura-basica/o-que-e-html-suas-tags-parte-1-estrutura-basica.jpg);
+    /*background-size: contain;*/
+}
+#patoganso ol{
+    font-weight: bold;
+}
+#patoganso ul{
+    font-weight: lighter;
+    list-style-type: square;
+}
+#patoganso h2{
+    padding: 18px;
+    color: #ffffff;
+    font-family: Blippo, fantasy;
+}
+#rodapé {
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding-bottom: 15px;
+}
