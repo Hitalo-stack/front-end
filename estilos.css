@@ -1,0 +1,65 @@
+body{
+    margin: 0px;
+}
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 8px;
+    font-family: Blippo, fantasy;
+    text-shadow: 3px 3px rgb(11, 94, 215);
+}
+main{
+    background-color: black;
+}
+section{
+    background-color: black;
+    border-top: 1px rgb(11, 94, 215) solid;
+    color: white;
+}
+#dados{
+    padding: 12px;
+    border-top: 1px solid rgb(11, 94, 215);
+    color: white;
+}
+#dados h2{
+    font-family: Blippo, fantasy;
+}
+#contatos{
+    text-align: center;
+    background-color: black;
+    padding: 5px;
+    color: #ffffff;
+}
+#contatos img{
+    width: 13px;
+    height: 12px;
+}
+#contatos h3{
+    font-family: Blippo, fantasy;
+    text-shadow: 5px 5px black;
+}
+h1{
+    padding: 18px;
+    font-family: Blippo, fantasy;
+}
+#patoganso ol{
+    font-weight: bold;
+}
+#patoganso ul{
+    font-weight: lighter;
+    list-style-type: square;
+}
+#patoganso h2{
+    background-color: rgb(0, 0, 0);
+    padding: 18px;
+    color: #ffffff;
+    font-family: Blippo, fantasy;
+}
+#rodapé {
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+    border-top: 1px solid rgb(11, 94, 215);
+}
